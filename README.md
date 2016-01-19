@@ -6,7 +6,7 @@ Prepdbot is a script that automatically cuts articles for [Prepd](https://prepd.
 * TCP_PORT: server port
 * BUFFER_SIZE: server buffer size
 * RSSFeeds: An array with the URLs for the RSS feeds used to cut articles.
-** In the format [["RSS-URL1", "FOLDERNAME1"], ["RSS-URL2", "FOLDERNAME2"]]
+* In the format [["RSS-URL1", "FOLDERNAME1"], ["RSS-URL2", "FOLDERNAME2"]]
 
 ##Client Configuration
 * UserName: your Prepd username
@@ -22,12 +22,12 @@ Prepdbot is a script that automatically cuts articles for [Prepd](https://prepd.
 
 ##Dependacies
 * Python 2.7
-** feedparser
-** socket
-** pickle
-** pyautogui
+* feedparser
+* socket
+* pickle
+* pyautogui
 * chromium-browser
-** Prepd Article Catcher
+* Prepd Article Catcher
 * (all subdependacies)
 
 ##Instructions
