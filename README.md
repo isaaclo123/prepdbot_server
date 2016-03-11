@@ -33,4 +33,5 @@ Prepdbot is a script that automatically cuts articles for [Prepd](https://prepd.
 ##Instructions
 1. Run the server script from the server computer/VM.
 2. Run the client scripts from the client computer(s)/VM(s).
-3. Have fun!
+3. Enable the prepd button in chromium incognito mode.
+4. Have fun!

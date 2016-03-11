@@ -13,9 +13,12 @@ BUFFER_SIZE = 1024
 
 #feed urls
 RSSFeeds = [
-["http://feeds.reuters.com/reuters/businessNews", "Buisness"], ["http://feeds.reuters.com/reuters/companyNews", "Companies"], ["http://feeds.reuters.com/reuters/environment", "Environment"],
+["http://feeds.reuters.com/reuters/businessNews", "Buisness"],
+["http://feeds.reuters.com/reuters/companyNews", "Companies"],
+["http://feeds.reuters.com/reuters/environment", "Environment"],
 ["http://feeds.reuters.com/news/wealth", "Money"],
-["http://feeds.reuters.com/Reuters/PoliticsNews", "Politics"], ["http://feeds.reuters.com/Reuters/domesticNews", "Domestic News"]
+["http://feeds.reuters.com/Reuters/PoliticsNews", "Politics"],
+["http://feeds.reuters.com/Reuters/domesticNews", "Domestic News"]
 ]
 
 print "PrepdBot Server"
